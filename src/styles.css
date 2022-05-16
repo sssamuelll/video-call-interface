@@ -327,7 +327,7 @@ a {
   height: 150px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   position: absolute;
-  z-index: 500;
+  z-index: 1;
 }
 
 .video-participant-2 {
